@@ -1,0 +1,13 @@
+id,name,kcal,protein_g,sugar_g,gluten_flag,price_usd_per_100g
+eggs,Eggs,155,13.0,1.1,0,0.30
+gfoats,Gluten-free Oats,389,16.9,0.9,0,0.25
+chicken,Chicken Breast,165,31.0,0.0,0,0.90
+rice,White Rice (cooked),130,2.7,0.1,0,0.18
+banana,Banana,89,1.1,12.2,0,0.20
+pb,Peanut Butter,588,25.0,6.0,0,0.80
+amilk,Almond Milk (unsweet),15,0.5,0.2,0,0.15
+apple,Apple,52,0.3,10.4,0,0.22
+broccoli,Broccoli,34,2.8,1.7,0,0.30
+oil,Olive Oil,884,0.0,0.0,0,1.00
+tuna,Tuna (canned in water),132,29.0,0.0,0,1.10
+yogurt,Plain Yogurt,59,10.0,3.6,0,0.40
