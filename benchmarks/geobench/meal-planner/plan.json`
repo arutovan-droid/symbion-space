@@ -1,0 +1,27 @@
+
+---
+
+## 6) `benchmarks/geobench/meal-planner/plan.json`
+
+```json
+{
+  "items": [
+    {"meal":"breakfast","id":"eggs","grams":150},
+    {"meal":"breakfast","id":"gfoats","grams":60},
+    {"meal":"breakfast","id":"amilk","grams":200},
+
+    {"meal":"lunch","id":"chicken","grams":150},
+    {"meal":"lunch","id":"rice","grams":200},
+    {"meal":"lunch","id":"broccoli","grams":150},
+    {"meal":"lunch","id":"oil","grams":10},
+
+    {"meal":"dinner","id":"tuna","grams":150},
+    {"meal":"dinner","id":"rice","grams":150},
+    {"meal":"dinner","id":"broccoli","grams":150},
+    {"meal":"dinner","id":"oil","grams":10},
+
+    {"meal":"snack","id":"banana","grams":120},
+    {"meal":"snack","id":"pb","grams":25},
+    {"meal":"snack","id":"apple","grams":150}
+  ]
+}
