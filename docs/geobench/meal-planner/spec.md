@@ -1,7 +1,7 @@
 
 ---
 
-### `docs/geobench/meal-planner/spec.md`
+### `docs/geobench/meal-planner/spec.md
 
 ```markdown
 # GeoBench Pilot — Meal Planner (Day Budget & Safety)
