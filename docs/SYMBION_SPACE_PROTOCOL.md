@@ -33,11 +33,11 @@ The pipeline strips away subject-matter vocabulary (nouns) to isolate the intera
 
 Symbion Space renders monolithic, energy-burning AI data centers obsolete. Instead of training models on trillions of tokens of internet noise, this architecture introduces **Proof of Structure**.
 
-Distributed nodes (universities, private labs, independent operators) can mine raw data (historical archives, medical records, legal precedents) using the Crystallization pipeline. By extracting pure invariants and anchoring them in the Federated Librarium, nodes generate "cognitive ore." The foundational LLMs (Qwen, DeepSeek, GPT, Claude, etc.) become mere compilation engines—pickaxes for mining—while the true intellectual property remains in the extracted structural logic.
+Distributed nodes (universities, private labs, independent operators) can mine raw data (historical archives, medical records, legal precedents) using the Crystallization pipeline. By extracting pure invariants and anchoring them in the Federated Librarium, nodes generate "cognitive ore." The foundational LLMs (Qwen, DeepSeek, GPT, Claude, etc.) become compilation engines—pickaxes for mining—while the true intellectual property remains in the extracted structural logic.
 
 ## 5. The "Global Transit" Architecture
 
-Currently, Symbion Space operates as a localized distributed network. It acts as a routing nexus where competing corporate models (from the US and China) are brought into a single, governed runtime. These models synthesize philosophical and structural outputs under the LUYS Governor and Gate mechanisms.
+Currently, Symbion Space operates as a localized distributed network. It acts as a routing nexus where competing corporate models are brought into a single, governed runtime. These models synthesize philosophical and structural outputs under the LUYS Governor and Gate mechanisms.
 
 It is a shadow UN for neural networks. There is no corporate IP over the generated ontology. There is only the Governor, the Gate, and the Operator holding the chain.
 
