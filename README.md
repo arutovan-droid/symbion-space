@@ -1,3 +1,14 @@
+# Symbion Space
+
+**The Crystallization Protocol: A Transition from Noun-Based RAG to Topology-Based Intelligence.**
+
+Symbion Space is the public protocol layer for topology-based structured intelligence: routing by tension, axis, and crystallized invariants rather than noun similarity.
+
+- Protocol: [`docs/SYMBION_SPACE_PROTOCOL.md`](docs/SYMBION_SPACE_PROTOCOL.md)
+- Prior Art Anchor: [`docs/PRIOR_ART_ANCHOR.md`](docs/PRIOR_ART_ANCHOR.md)
+
+---
+
 # Symbion Space — Structured Intelligence
 
 > Not a bigger model. A better orchestra.
